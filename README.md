@@ -21,3 +21,5 @@ npm run build --report
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 // 打算是要学习echarts用，兼顾在公司和家中学习方便操作，学习git
+
+// cest branch master
